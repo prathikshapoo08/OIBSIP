@@ -6,3 +6,9 @@ This project is a simple Weather Application developed using Python. It allows u
 
 ### Output Screenshot
 [Task 1](TASK1.png)
+## Task 2 – Random Password Generator
+
+This project is a Random Password Generator developed using Python. It generates strong and secure passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters. The program helps users create safe passwords for better security.
+
+### Output Screenshot
+![Task 2](task2.png)
