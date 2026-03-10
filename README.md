@@ -5,4 +5,4 @@ Welcome to the Oasis Infobyte Internship Projects repository! This repository co
 This project is a simple Weather Application developed using Python. It allows users to enter a city name and view weather details such as temperature, humidity, and weather conditions using an API.
 
 ### Output Screenshot
-[Task 1](TASK 1.png)
+[Task 1](TASK%201.png)
