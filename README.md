@@ -5,10 +5,16 @@ Welcome to the Oasis Infobyte Internship Projects repository! This repository co
 This project is a simple Weather Application developed using Python. It allows users to enter a city name and view weather details such as temperature, humidity, and weather conditions using an API.
 
 ### Output Screenshot
-[Task 1](TASK1.png)
+[Task 1](TASK 1.png)
 ## Task 2 – Random Password Generator
 
 This project is a Random Password Generator developed using Python. It generates strong and secure passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters. The program helps users create safe passwords for better security.
 
 ### Output Screenshot
 ![Task 2](TASK2.png)
+## Task 3 – BMI Calculator
+
+This project is a BMI (Body Mass Index) Calculator developed using Python. It calculates the BMI based on the user's height and weight and shows the health category such as underweight, normal weight, overweight, or obese. The program helps users understand their body health status easily.
+
+### Output Screenshot
+![Task 3](TASK3.png)
